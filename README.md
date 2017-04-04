@@ -5,6 +5,7 @@
 <h3><b>支持的DSM版本</b></h3>
 <p>DSM 5.0及以上版本</p>
 <h3><b>使用方法</b></h3>
+<p>下载并执行安装脚本：</p>
 <pre>
 <code>
 wget https://github.com/hitechbeijing/downloadstation-web-control/raw/master/release/easy_install.sh
