@@ -11,5 +11,5 @@ wget https://github.com/hitechbeijing/downloadstation-web-control/raw/master/rel
 sudo sh easy_install.sh
 </code>
 </pre>
-注意，此脚本需以root权限执行。
+注意，此脚本需以root权限执行。<br/>
 脚本执行完毕后在浏览器地址栏输入http://nas地址:9093 即可访问。
