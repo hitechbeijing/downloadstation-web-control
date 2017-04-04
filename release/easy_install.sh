@@ -6,7 +6,7 @@
 index="index.html"
 tmpFolder="/tmp"
 packname="transmission-control.tgz"
-host="http://hitechbeijing.site/"
+host="https://github.com/hitechbeijing/downloadstation-web-control/raw/master/release/"
 downloadurl="$host$packname"
 ROOT_UID=0
 
