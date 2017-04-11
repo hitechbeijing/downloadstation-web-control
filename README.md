@@ -1,3 +1,4 @@
+<h1><b>此项目已经和transmission-web-control合并，请前往<a href="https://github.com/hitechbeijing/transmission-web-control">https://github.com/hitechbeijing/transmission-web-control</a>获取最新代码</b></h1>
 <h1><b>关于此项目</b></h1>
 <p>此项目目的是为群晖套件DownloadStation增加一个第三方的web ui，用于控制DownloadStation自带的transmission-daemon上传与下载。从而避免安装一个完整的transmission套件。</p>
 <p>web ui来自transmission自带的web ui与@ronggang的transmission-web-control的整合</p>
